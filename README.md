@@ -1,4 +1,4 @@
-# Fundamentals_Of_Data_Analysis_Assessment
+# Fundamentals of Data Analysis Assessment 2019
 
 This repository contains all my work in regards to my Assessment 2019 for the module Fundamentals of Data Analysis.
 
