@@ -8,7 +8,7 @@ This assessment concerns the well-known tips [6] dataset and the Python [1] pack
 
 Description:
 
-* Create a git repository and make it available online for the lecturer to clone. The repository should contain all your work for this assessment. 
+* Create a git repository and make it available online for the lecturer to clone. The repository should contain all your work for this assessment.
 * Within the repository, create a jupyter [4] notebook that uses descriptive statistics and plots to describe the tips [6] dataset. This part is worth 30% of your overall mark.
 
 Regression:
