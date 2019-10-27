@@ -39,8 +39,6 @@ Analyse:
 
 ## Installing Cmder and Ananconda (which includes Seaborn, Jupyter), and HowTo run Jupyter
 
-To answer the four distinct tasks, it was required of me to install some software packages:
-
 * To install Seaborn [7] on your local machine, I would advise you to download the anaconda package distribution [8], which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
 
 Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
@@ -68,4 +66,4 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 
 <https://cmder.net/>
 
-I use Cmder (command line interface) for changing the working directory on my local machine, i.e. Fundamentals_Of_Data_Analysis_Assessment, from there I launch "jupyter notebook" command, and make changes to it.
+I use Cmder for changing the working directory on my local machine, i.e. Fundamentals_Of_Data_Analysis_Assessment, from there I launch "jupyter notebook" command, and make changes to it.
