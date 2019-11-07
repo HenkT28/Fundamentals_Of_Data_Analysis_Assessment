@@ -37,7 +37,7 @@ Analyse:
 
 * Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish — for example, you may analyse all pairs of variables, or select a subset and analyse those.
 
-## Installing Cmder and Ananconda (which includes Seaborn, Jupyter), and HowTo run Jupyter
+## Installing Cmder and Ananconda (which includes Seaborn, Jupyter)
 
 * To install Seaborn [7] on your local machine, I would advise you to download the anaconda package distribution [8], which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
 
@@ -54,16 +54,30 @@ Anaconda3 includes Python 3.7.
 
 * The Jupyter Notebook [4] is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the difference between the 2 interfaces):
-
--> Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc, and is largely used for data analysis, data visualization and further interactive, exploratory computing.
-
--> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
-
 <https://jupyter.org/install>
+
+As I have Anaconda installed, there was no need to install Jupyter separately.
 
 * Cmder is a software package which provides a nice command line interface on Windows [10].
 
 <https://cmder.net/>
 
 I use Cmder for changing the working directory on my local machine, i.e. Fundamentals_Of_Data_Analysis_Assessment, from there I launch "jupyter notebook" command, and make changes to it.
+
+* Visual Studio Code is a lightweight but powerful source code editor.
+
+<https://code.visualstudio.com/>
+
+VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools. [31]
+
+I use it to make changes to the readme in my repository.
+
+## HowTo run Jupyter notebook
+
+I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the difference between the 2 interfaces):
+
+-> Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc, and is largely used for data analysis, data visualization and further interactive, exploratory computing.
+
+-> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
+
+Once I'm in the correct working directory, I start jupyter by running "jupyter notebook" command through Cmder.
