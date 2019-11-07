@@ -37,7 +37,7 @@ Analyse:
 
 * Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish — for example, you may analyse all pairs of variables, or select a subset and analyse those.
 
-## Installing Cmder and Ananconda (which includes Seaborn, Jupyter)
+## Installing Cmder, Visual Studio Code and Ananconda (which includes Seaborn, Jupyter)
 
 * To install Seaborn [7] on your local machine, I would advise you to download the anaconda package distribution [8], which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
 
