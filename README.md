@@ -37,40 +37,77 @@ Analyse:
 
 * Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish — for example, you may analyse all pairs of variables, or select a subset and analyse those.
 
-## Installing Cmder, Visual Studio Code and Ananconda (which includes Seaborn, Jupyter)
+## Installing Cmder, Visual Studio Code and Ananconda (which includes Jupyter, Pandas, Matplotlib, Seaborn and NumPy)
 
-* To install Seaborn [7] on your local machine, I would advise you to download the anaconda package distribution [8], which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
+* Anaconda Distribution
 
-Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X. With over 15 million users worldwide. [8]
 
-Anaconda supports Windows, Mac and Linux.
+It is the industry standard for developing, testing, and training on a single machine, enabling individual data scientists to:
+
+    Quickly download 1,500+ Python/R data science packages.
+    Manage libraries, dependencies, and environments with Conda.
+    Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano.
+    Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba.
+    Visualize results with Matplotlib, Bokeh, Seaborn, Datashader, and Holoviews.
+
+Anaconda is free and easy to install, and it offers free community support.
+
+Anaconda3 includes Python 3.7.
 
 <https://www.anaconda.com/distribution/>
 
 <https://docs.anaconda.com/anaconda/>
 
-Anaconda® is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 1,500+ open source packages. Anaconda is free and easy to install, and it offers free community support.
-Anaconda3 includes Python 3.7.
+* Jupyter Notebook
 
 * The Jupyter Notebook [4] is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-<https://jupyter.org/install>
-
 As I have Anaconda installed, there was no need to install Jupyter separately.
 
-* Cmder is a software package which provides a nice command line interface on Windows [10].
+<https://jupyter.org/install>
 
-<https://cmder.net/>
+* Seaborn
+
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. Again it comes installed with Anaconda. [7]
+
+* NumPy
+
+NumPy is the fundamental package for scientific computing with Python. It contains among other things [32]:
+
+    A powerful N-dimensional array object.
+
+    Sophisticated (broadcasting) functions.
+
+    Tools for integrating C/C++ and Fortran code.
+
+    Useful linear algebra, Fourier transform, and random number capabilities.
+
+* Pandas
+
+Pandas is a common Python tool for data manipulation and analysis, and is included with Anaconda. [33]
+
+* Matplotlib
+
+Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution. [34]
+
+* Cmder
+
+Cmder is a software package which provides a nice command line interface on Windows [10].
 
 I use Cmder for changing the working directory on my local machine, i.e. Fundamentals_Of_Data_Analysis_Assessment, from there I launch "jupyter notebook" command, and make changes to it.
 
-* Visual Studio Code is a lightweight but powerful source code editor.
+<https://cmder.net/>
 
-<https://code.visualstudio.com/>
+* Visual Studio Code
+
+VS Code is a lightweight but powerful source code editor.
 
 VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools. [31]
 
 I use it to make changes to the readme in my repository.
+
+<https://code.visualstudio.com/>
 
 ## HowTo run Jupyter notebook
 
