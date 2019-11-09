@@ -118,3 +118,5 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 -> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
 
 Once I'm in the correct working directory, I start jupyter by running "jupyter notebook" command through Cmder.
+
+The jupyter notebook is called Tips_Dataset.ipynb, and contains the body of work.
