@@ -119,4 +119,4 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 
 Once I'm in the correct working directory, I start jupyter by running "jupyter notebook" command through Cmder.
 
-The jupyter notebook is called Tips_Dataset.ipynb, and contains the body of work.
+The jupyter notebook is called Tips_Dataset.ipynb, and contains the body of my work.
