@@ -89,11 +89,11 @@ Pandas is a common Python tool for data manipulation and analysis, and is includ
 
 * Matplotlib
 
-Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution. [34]
+Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution. [34]
 
 * Cmder
 
-Cmder is a software package which provides a nice command line interface on Windows [10].
+Cmder is a software package which provides a nice command line interface on Windows. [10]
 
 I use Cmder for changing the working directory on my local machine, i.e. Fundamentals_Of_Data_Analysis_Assessment, from there I launch "jupyter notebook" command, and make changes to it.
 
