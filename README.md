@@ -22,7 +22,7 @@ GMIT email address: G00376321@gmit.ie
 
 ## Problem statement
 
-This assessment concerns the well-known Tips [6] dataset and the Python [1] packages seaborn [5] and jupyter [4]. The project is broken into three parts, as follows:
+This assessment concerns the well-known Tips [6] dataset and the Python [1] packages Seaborn [5] and Jupyter [4], and some other packages. The project is broken into three parts, as follows:
 
 1). Description:
 
