@@ -27,7 +27,7 @@ This assessment concerns the well-known Tips [6] dataset and the Python [1] pack
 1). Description:
 
 * I created a git repository and made it available online for the lecturer to clone. The repository contains all the work for this assessment.
-* Within the repository, create a jupyter [4] notebook that uses descriptive statistics and plots to describe the Tips [6] dataset.
+* Within the repository, I created a jupyter [4] notebook that uses descriptive statistics and plots to describe the Tips [6] dataset.
 
 2). Regression:
 
@@ -119,4 +119,4 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 
 Once I'm in the correct working directory, I start jupyter by running "jupyter notebook" command through Cmder.
 
-The jupyter notebook is called Tips_Dataset.ipynb, and contains the body of my work.
+The Jupyter notebook is called Tips_Dataset.ipynb, and contains the body of my work.
